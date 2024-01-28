@@ -2,4 +2,6 @@
 <br>
 <a href="https://rajshree-nagane.github.io/Shopping_cart/"><strong>Live Demo</strong></a>
 <br>
-![image](https://github.com/Rajshree-Nagane/Shopping_cart/assets/151632485/5e94bb05-42c4-4239-90d6-2467f606af2b)
+![image](https://github.com/Rajshree-Nagane/Shopping_cart/assets/151632485/33ff1e15-0baa-4166-915e-3362e7c58634)
+
+
